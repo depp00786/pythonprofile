@@ -1,0 +1,3 @@
+This is repository is sole property of Sidharth Mahajan.
+
+This repository has all my projects and practice files made in python.
